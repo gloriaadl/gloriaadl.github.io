@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+
+h1 {
+    color: coral; 
+    font-size: 3em; 
+    font-family: 'Playfair Display', serif;
+}
+
+h2 {
+    color: coral; 
+    font-size: 4em;
+    margin-top: 0.5em;
+    margin-bottom: 0.3em;
+    font-family: 'Pacifico', cursive;
+}
+
+h4 {
+    color: rgba(255, 127, 80, 0.43)
+}
+
+h5 {
+    color: rgba(255, 127, 80, 0.43); margin-bottom: 1em
+}
+
+h6 {
+    color: rgb(226, 204, 178);
+    font-size: 1.3em
+}
+
+h7 {color: #8b6951}
+
+body {
+    background-color: #FFE
+}
+
+#left-col {background-color: rgba(255, 127, 80, 0.21);
+height: 100vh;
+width: 30vh}
+
+.photo {
+    border-radius: 5em;
+}
+
+
+#dlsuu {margin-bottom: 1em}
+
+#coco {margin-bottom: 1em}
+#co-2nd {margin-bottom: 1em; margin-top: 1em}
+#co-3rd {margin-bottom: 1em}
+#co-4th {margin-bottom: 1em}
+#co-5th {margin-bottom: 1em}
+#co-6th {margin-bottom: 1em}
+#co-7th {margin-bottom: 1em}
+#co-8th {margin-bottom: 1em}
+
+
+a { color: rgb(198, 173, 144)}
+
+a:hover {color: bisque}
+
+ul {list-style: none}
+
+#sem-1 {margin-bottom: 1em;}
+#sem-2 {margin-bottom: 1em;}
+#sem-3 {margin-bottom: 1em;}
+#sem-4 {margin-bottom: 1em;}
+#sem-5 {margin-bottom: 1em;}
+#sem-6 {margin-bottom: 1em;}
